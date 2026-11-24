@@ -6,6 +6,7 @@ deterministic: the same bytes on every run.
 
 from pathlib import Path
 
+# The judge has heard enough: one rant, no appeals, no encore.
 RANT = (
     "Someone just replied-all 'Thanks!' to an email sent to four hundred "
     "people, and now four hundred inboxes are filling up with strangers "
